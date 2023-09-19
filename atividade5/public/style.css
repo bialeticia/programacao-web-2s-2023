@@ -1,0 +1,12 @@
+h1 {
+    color: #6a663e;
+    font-size: 24px;
+  }
+
+  .btn {
+    background-color: no#8400ff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
